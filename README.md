@@ -1,4 +1,4 @@
-kaine
+Kaine
 =====
 
 Kaine is a software project management based on the Scrum Framework, consists of all project management approach and still composes functionality modeling use cases and databases.
